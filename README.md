@@ -46,13 +46,11 @@ And at least one will probably steal your snacks.
 
 ## Character Gallery
 
-| Kawakiwi | Puffipuppi | Pokipony |
-| --- | --- | --- |
+| Kawakiwi                                                     | Puffipuppi                                                       | Pokipony                                                     |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="images/kawakiwi.png" alt="Kawakiwi" width="120" /> | <img src="images/puffipuppi.png" alt="Puffipuppi" width="120" /> | <img src="images/pokipony.png" alt="Pokipony" width="120" /> |
-
-| Panshee | Toyo Tapu | Flamika |
-| --- | --- | --- |
-| <img src="images/panshee.png" alt="Panshee" width="120" /> | <img src="images/toyo-tapu.png" alt="Toyo Tapu" width="120" /> | <img src="images/flamika.png" alt="Flamika" width="120" /> |
+| Panshee                                                      | Toyo Tapu                                                        | Flamika                                                      |
+| <img src="images/panshee.png" alt="Panshee" width="120" />   | <img src="images/toyo-tapu.png" alt="Toyo Tapu" width="120" />   | <img src="images/flamika.png" alt="Flamika" width="120" />   |
 
 ## 🥝 Kawakiwi
 
