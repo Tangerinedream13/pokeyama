@@ -46,11 +46,15 @@ And at least one will probably steal your snacks.
 
 ## Character Gallery
 
-| Kawakiwi                                                     | Puffipuppi                                                       | Pokipony                                                     |
-| ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="images/kawakiwi.png" alt="Kawakiwi" width="120" /> | <img src="images/puffipuppi.png" alt="Puffipuppi" width="120" /> | <img src="images/pokipony.png" alt="Pokipony" width="120" /> |
-| Panshee                                                      | Toyo Tapu                                                        | Flamika                                                      |
-| <img src="images/panshee.png" alt="Panshee" width="120" />   | <img src="images/toyo-tapu.png" alt="Toyo Tapu" width="120" />   | <img src="images/flamika.png" alt="Flamika" width="120" />   |
+| Kawakiwi                                                       | Puffipuppi                                                       | Pokipony                                                     |
+| -------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="images/kawakiwi.png" alt="Kawakiwi" width="120" />   | <img src="images/puffipuppi.png" alt="Puffipuppi" width="120" /> | <img src="images/pokipony.png" alt="Pokipony" width="120" /> |
+| Panshee                                                        | Toyo Tapu                                                        | Flamika                                                      |
+| <img src="images/panshee.png" alt="Panshee" width="120" />     | <img src="images/toyo-tapu.png" alt="Toyo Tapu" width="120" />   | <img src="images/flamika.png" alt="Flamika" width="120" />   |
+| Florzilla                                                      | Munchee                                                          | Hapibuni                                                     |
+| <img src="images/florzilla.png" alt="Florzilla" width="120" /> | <img src="images/munchee.png" alt="Munchee" width="120" />       | <img src="images/hapibuni.png" alt="Hapibuni" width="120" /> |
+| Capybasha                                                      |                                                                  |                                                              |
+| <img src="images/capybasha.png" alt="Capybasha" width="120" /> |                                                                  |                                                              |
 
 ## 🥝 Kawakiwi
 
@@ -202,6 +206,90 @@ Flamika is elegant, dramatic, and extremely aware of both facts.
 
 ---
 
+## 🌸 Florzilla
+
+<img src="images/florzilla.png" alt="Florzilla" width="96" />
+
+**Creature:** Floral Kaiju
+**Type:** Nature / Bloom
+**Habitat:** Volcano gardens, overgrown ruins, and moonlit greenhouses
+
+Florzilla is a giant lizard-like terror covered in blooming flowers and thorny petals.
+
+It stomps through the world like a monster movie nightmare, except the nightmare smells like a garden.
+
+### Possible Abilities
+
+- Petal Roar
+- Thorn Tail
+- Bloom Smash
+- Vine Tremor
+
+---
+
+## 🪵 Munchee
+
+<img src="images/munchee.png" alt="Munchee" width="96" />
+
+**Creature:** Beaver
+**Type:** Wood / Bite
+**Habitat:** Riverbanks, dam forests, and stump piles
+
+Munchee is a beaver with one huge tooth and an even bigger appetite for wood.
+
+It loves chewing logs, gnawing tree stumps, and turning fallen branches into surprisingly sturdy dams.
+
+### Possible Abilities
+
+- Timber Bite
+- Stump Smash
+- Log Jam
+- Dam Dash
+
+---
+
+## 🩷 Hapibuni
+
+<img src="images/hapibuni.png" alt="Hapibuni" width="96" />
+
+**Creature:** Bunny Idol
+**Type:** Sky / Charm
+**Habitat:** Pink hills, concert stages, and cloud gardens
+
+Hapibuni is a cheerful princess bunny with pink flair, spinning helicopter ears, and big influencer energy.
+
+She loves dancing, dressing up, and charming every crowd she meets.
+
+### Possible Abilities
+
+- Ear Spin
+- Sparkle Hop
+- Charm Chorus
+- Bunny Beat
+
+---
+
+## 🦫 Capybasha
+
+<img src="images/capybasha.png" alt="Capybasha" width="96" />
+
+**Creature:** Capybara
+**Type:** Earth / Bash
+**Habitat:** Mud flats, riverbanks, and training grounds
+
+Capybasha is a huge, strong capybara Pokeyama built for smashing through obstacles.
+
+It may look calm for a second, but once it starts charging, everything in its path gets flattened.
+
+### Possible Abilities
+
+- Bash Charge
+- Mud Slam
+- Capy Crash
+- Heavy Roll
+
+---
+
 # 🗺️ Places to Explore
 
 The Pokéyama world still needs a map.
@@ -287,16 +375,27 @@ pokeyama/
 │   ├── pokipony.md
 │   ├── panshee.md
 │   ├── toyo-tapu.md
-│   └── flamika.md
+│   ├── flamika.md
+│   ├── 007-florzilla.md
+│   ├── 008-munchee.md
+│   ├── 009-hapibuni.md
+│   └── 010-capybasha.md
+│   ├── 007-florzilla.md
+│   ├── 008-munchee.md
+│   ├── 009-hapibuni.md
+│   └── 010-capybasha.md
 │
 ├── locations/
 │   └── pokeyama-map.md
 │
+├── images/
+│   └── README.md
+
 ├── stories/
 │   └── chapter-01.md
 │
 ├── ideas/
-│   ├── new-creatures.md
+│   ├── new-yamas.md
 │   └── evolutions.md
 │
 └── game/
@@ -331,6 +430,14 @@ A mysterious Toyo Tapu.
 
 And finally, a flaming flamingo named Flamika.
 
+Then came Florzilla, a floral kaiju terror.
+
+Munchee, a one-toothed beaver that loves wood and stumps.
+
+Hapibuni, a glittery bunny idol with spinning ears.
+
+And Capybasha, a capybara built for smashing.
+
 Pokéyama had begun.
 
 ---
@@ -345,6 +452,10 @@ Especially at bedtime.
 - Creature #008
 - Creature #009
 - Creature #010
+- Creature #011
+- Creature #012
+- Creature #013
+- Creature #014
 
 ---
 

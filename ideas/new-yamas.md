@@ -4,10 +4,10 @@ Capture every new creature idea immediately.
 
 ## Idea Queue
 
-- 007 -
-- 008 -
-- 009 -
-- 010 -
+- 007 Florzilla
+- 008 Munchee
+- 009 Hapibuni
+- 010 Capybasha
 - 011 -
 - 012 -
 
