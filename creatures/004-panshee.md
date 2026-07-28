@@ -45,4 +45,4 @@ Uncommon
 
 ## Image
 
-Expected file: images/panshee.png
+![Panshee](../images/panshee.png)

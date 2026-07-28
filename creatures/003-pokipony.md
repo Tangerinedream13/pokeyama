@@ -45,4 +45,4 @@ Uncommon
 
 ## Image
 
-Expected file: images/pokipony.png
+![Pokipony](../images/pokipony.png)

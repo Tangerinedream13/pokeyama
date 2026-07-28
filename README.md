@@ -46,6 +46,8 @@ And at least one will probably steal your snacks.
 
 ## 🥝 Kawakiwi
 
+<img src="images/kawakiwi.png" alt="Kawakiwi" width="96" />
+
 **Creature:** Kiwi Bird
 **Type:** Fruit / Flying
 **Habitat:** Kiwi groves and shady forests
@@ -68,6 +70,8 @@ Very fast.
 ---
 
 ## 🐡 Puffipuppi
+
+<img src="images/puffipuppi.png" alt="Puffipuppi" width="96" />
 
 **Creature:** Puffer Puppy
 **Type:** Water / Fluff
@@ -92,6 +96,8 @@ Sometimes it just does it.
 
 ## 🦔 Pokipony
 
+<img src="images/pokipony.png" alt="Pokipony" width="96" />
+
 **Creature:** Quill Pony
 **Type:** Earth / Pokey
 **Habitat:** Grasslands and rocky trails
@@ -112,6 +118,8 @@ Pokipony loves running but does not recommend hugging from behind.
 ---
 
 ## 🐼 Panshee
+
+<img src="images/panshee.png" alt="Panshee" width="96" />
 
 **Creature:** Pantry Panda
 **Type:** Snack
@@ -140,6 +148,8 @@ Pretty much everything.
 
 ## 🐸 Toyo Tapu
 
+<img src="images/toyo-tapu.png" alt="Toyo Tapu" width="96" />
+
 **Creature:** Toad
 **Type:** Water / Mud
 **Habitat:** Ponds, streams, and muddy places
@@ -158,6 +168,8 @@ It loves puddles, rainstorms, and surprising travelers by suddenly jumping enorm
 ---
 
 ## 🦩🔥 Flamika
+
+<img src="images/flamika.png" alt="Flamika" width="96" />
 
 **Creature:** Flaming Flamingo
 **Type:** Fire / Flying

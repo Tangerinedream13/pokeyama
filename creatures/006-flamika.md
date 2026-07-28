@@ -45,4 +45,4 @@ Rare
 
 ## Image
 
-Expected file: images/flamika.png
+![Flamika](../images/flamika.png)

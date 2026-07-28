@@ -45,4 +45,4 @@ Rare
 
 ## Image
 
-Expected file: images/toyo-tapu.png
+![Toyo Tapu](../images/toyo-tapu.png)

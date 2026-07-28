@@ -45,4 +45,4 @@ Common
 
 ## Image
 
-Expected file: images/puffipuppi.png
+![Puffipuppi](../images/puffipuppi.png)

@@ -45,4 +45,4 @@ Common
 
 ## Image
 
-Expected file: images/kawakiwi.png
+![Kawakiwi](../images/kawakiwi.png)
