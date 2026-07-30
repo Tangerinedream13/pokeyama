@@ -8,7 +8,7 @@ Capture every new creature idea immediately.
 - 008 Munchee
 - 009 Hapibuni
 - 010 Capybasha
-- 011 -
+- 011 Pengiro
 - 012 -
 
 ## Entry Template

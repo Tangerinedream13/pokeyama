@@ -8,6 +8,11 @@ Drop character images in this folder using these names:
 - panshee.png
 - toyo-tapu.png
 - flamika.png
+- florzilla.png
+- munchee.png
+- hapibuni.png
+- capybasha.png
+- pengiro.png
 
 ## Notes
 

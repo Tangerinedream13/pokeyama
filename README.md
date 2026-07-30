@@ -53,8 +53,8 @@ And at least one will probably steal your snacks.
 | <img src="images/panshee.png" alt="Panshee" width="120" />     | <img src="images/toyo-tapu.png" alt="Toyo Tapu" width="120" />   | <img src="images/flamika.png" alt="Flamika" width="120" />   |
 | Florzilla                                                      | Munchee                                                          | Hapibuni                                                     |
 | <img src="images/florzilla.png" alt="Florzilla" width="120" /> | <img src="images/munchee.png" alt="Munchee" width="120" />       | <img src="images/hapibuni.png" alt="Hapibuni" width="120" /> |
-| Capybasha                                                      |                                                                  |                                                              |
-| <img src="images/capybasha.png" alt="Capybasha" width="120" /> |                                                                  |                                                              |
+| Capybasha                                                      | Pengiro                                                          |                                                              |
+| <img src="images/capybasha.png" alt="Capybasha" width="120" /> | <img src="images/pengiro.png" alt="Pengiro" width="120" />       |                                                              |
 
 ## 🥝 Kawakiwi
 
@@ -290,6 +290,27 @@ It may look calm for a second, but once it starts charging, everything in its pa
 
 ---
 
+## 🐧❄️ Pengiro
+
+<img src="images/pengiro.png" alt="Pengiro" width="96" />
+
+**Creature:** Ice Blaster Penguin
+**Type:** Ice / Water
+**Habitat:** Frozen coves, glacier cliffs, and snowstorm shores
+
+Pengiro is a determined penguin Pokeyama that shoots freezing ice blasts from its beak.
+
+It slides across frozen ground at high speed, then freezes opponents in place with precise ranged attacks.
+
+### Possible Abilities
+
+- Frost Shot
+- Ice Beam Peck
+- Glacier Slide
+- Snow Burst
+
+---
+
 # 🗺️ Places to Explore
 
 The Pokéyama world still needs a map.
@@ -370,20 +391,17 @@ pokeyama/
 ├── README.md
 │
 ├── creatures/
-│   ├── kawakiwi.md
-│   ├── puffipuppi.md
-│   ├── pokipony.md
-│   ├── panshee.md
-│   ├── toyo-tapu.md
-│   ├── flamika.md
+│   ├── 001-kawakiwi.md
+│   ├── 002-puffipuppi.md
+│   ├── 003-pokipony.md
+│   ├── 004-panshee.md
+│   ├── 005-toyo-tapu.md
+│   ├── 006-flamika.md
 │   ├── 007-florzilla.md
 │   ├── 008-munchee.md
 │   ├── 009-hapibuni.md
-│   └── 010-capybasha.md
-│   ├── 007-florzilla.md
-│   ├── 008-munchee.md
-│   ├── 009-hapibuni.md
-│   └── 010-capybasha.md
+│   ├── 010-capybasha.md
+│   └── 011-pengiro.md
 │
 ├── locations/
 │   └── pokeyama-map.md
@@ -438,6 +456,8 @@ Hapibuni, a glittery bunny idol with spinning ears.
 
 And Capybasha, a capybara built for smashing.
 
+Then Pengiro arrived, sliding in on ice and firing freezing blasts.
+
 Pokéyama had begun.
 
 ---
@@ -452,10 +472,10 @@ Especially at bedtime.
 - Creature #008
 - Creature #009
 - Creature #010
-- Creature #011
 - Creature #012
 - Creature #013
 - Creature #014
+- Creature #015
 
 ---
 
