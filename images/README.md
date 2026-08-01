@@ -13,6 +13,7 @@ Drop character images in this folder using these names:
 - hapibuni.png
 - capybasha.png
 - pengiro.png
+- lit.png
 
 ## Notes
 

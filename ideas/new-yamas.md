@@ -9,7 +9,8 @@ Capture every new creature idea immediately.
 - 009 Hapibuni
 - 010 Capybasha
 - 011 Pengiro
-- 012 -
+- 012 Lit
+- 013 -
 
 ## Entry Template
 
