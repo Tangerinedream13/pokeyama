@@ -55,6 +55,8 @@ And at least one will probably steal your snacks.
 | <img src="images/florzilla.png" alt="Florzilla" width="120" /> | <img src="images/munchee.png" alt="Munchee" width="120" />       | <img src="images/hapibuni.png" alt="Hapibuni" width="120" /> |
 | Capybasha                                                      | Pengiro                                                          | Lit                                                          |
 | <img src="images/capybasha.png" alt="Capybasha" width="120" /> | <img src="images/pengiro.png" alt="Pengiro" width="120" />       | <img src="images/lit.png" alt="Lit" width="120" />           |
+| Hoshiyuki                                                      |                                                                  |                                                              |
+| <img src="images/hoshiyuki.png" alt="Hoshiyuki" width="120" /> |                                                                  |                                                              |
 
 ## 🥝 Kawakiwi
 
@@ -332,6 +334,27 @@ It shoots sticky glowy goo and floating light orbs that can blind, slow, or trap
 
 ---
 
+## 🦊🌙 Hoshiyuki
+
+<img src="images/hoshiyuki.png" alt="Hoshiyuki" width="96" />
+
+**Creature:** Midnight Fox
+**Type:** Moon / Star
+**Habitat:** Midnight clearings, starlit hills, and twilight groves
+
+Hoshiyuki is a kawaii midnight fox Pokeyama with soft purple fur and sparkling eyes.
+
+She appears under a dark purple night sky and fires glowing moonbeams to dazzle opponents and light up the darkness.
+
+### Possible Abilities
+
+- Moonbeam Burst
+- Starry Gleam
+- Lunar Flash
+- Celestial Tail
+
+---
+
 # 🗺️ Places to Explore
 
 The Pokéyama world still needs a map.
@@ -423,7 +446,8 @@ pokeyama/
 │   ├── 009-hapibuni.md
 │   ├── 010-capybasha.md
 │   ├── 011-pengiro.md
-│   └── 012-lit.md
+│   ├── 012-lit.md
+│   └── 013-hoshiyuki.md
 │
 ├── locations/
 │   └── pokeyama-map.md
@@ -482,6 +506,8 @@ Then Pengiro arrived, sliding in on ice and firing freezing blasts.
 
 Then Lit zipped in, glowing bright and firing gooey light orbs.
 
+Then Hoshiyuki arrived under the midnight sky, casting moonbeams across the stars.
+
 Pokéyama had begun.
 
 ---
@@ -498,7 +524,7 @@ Especially at bedtime.
 - Creature #010
 - Creature #011
 - Creature #012 Lit
-- Creature #013
+- Creature #013 Hoshiyuki
 - Creature #014
 - Creature #015
 

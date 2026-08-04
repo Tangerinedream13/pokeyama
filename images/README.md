@@ -14,6 +14,7 @@ Drop character images in this folder using these names:
 - capybasha.png
 - pengiro.png
 - lit.png
+- hoshiyuki.png
 
 ## Notes
 
