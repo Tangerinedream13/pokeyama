@@ -9,7 +9,9 @@ Battle Style: Ranged Light / Charm Control
 
 ## Description
 
-Hoshiyuki is a kawaii midnight fox Pokeyama with soft purple fur that shimmers under the stars. She appears under a dark purple night sky and fires glowing moonbeams to dazzle opponents and light the battlefield.
+Hoshiyuki is a kawaii nine-tailed midnight fox Pokeyama with soft purple fur that shimmers under the stars. She appears under a dark purple night sky and fires glowing moonbeams to dazzle opponents and light the battlefield.
+
+In Japan, a fox spirit is called a kitsune in folklore, and nine-tailed kitsune are seen as powerful mythical beings with great magic and wisdom.
 
 ## Battle Moves
 

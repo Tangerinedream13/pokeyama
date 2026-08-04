@@ -36,4 +36,4 @@ Special: Midnight Moonbeam
 Weakness: Dawn / Blaze
 Habitat: Midnight clearings, starlit hills, and twilight groves
 Rarity: Rare
-Flavor Text: A kawaii midnight fox with shimmering purple fur that fires moonbeams beneath a sky full of stars.
+Flavor Text: A kawaii nine-tailed kitsune from Japanese folklore, Hoshiyuki glows under the stars and fires moonbeams through the night.

@@ -338,13 +338,15 @@ It shoots sticky glowy goo and floating light orbs that can blind, slow, or trap
 
 <img src="images/hoshiyuki.png" alt="Hoshiyuki" width="96" />
 
-**Creature:** Midnight Fox
+**Creature:** Nine-Tailed Kitsune (Midnight Fox)
 **Type:** Moon / Star
 **Habitat:** Midnight clearings, starlit hills, and twilight groves
 
-Hoshiyuki is a kawaii midnight fox Pokeyama with soft purple fur and sparkling eyes.
+Hoshiyuki is a kawaii nine-tailed midnight fox Pokeyama with soft purple fur and sparkling eyes.
 
 She appears under a dark purple night sky and fires glowing moonbeams to dazzle opponents and light up the darkness.
+
+In Japan, a fox spirit is called a kitsune in folklore, and nine-tailed kitsune are known as powerful mythical beings with deep magic and wisdom.
 
 ### Possible Abilities
 
