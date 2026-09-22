@@ -1,7 +1,11 @@
 # ⚔️ POKEYAMA
 
+[![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org)
+
 > Catch them. Train them. Battle them.
 > And whatever you do… protect the snacks.
+
+The Pokeyama Collection browser (in this `game/` folder) is an experiment using [Next.js](https://nextjs.org) to statically generate a Pokédex-style browsing site straight from the creature `.md` files in [`../creatures`](../creatures) — no database, just markdown as the data source.
 
 **Pokeyama** is an original creature-collecting and battling game universe filled with strange animals, elemental powers, ridiculous personalities, hidden regions, evolutions, rival trainers, and legendary creatures.
 
@@ -21,16 +25,16 @@ Far beyond the ordinary world lies **Pokeyama**, a wild land where creatures kno
 
 Every Yama has its own:
 
-* Elemental type
-* Battle abilities
-* Personality
-* Habitat
-* Strengths
-* Weaknesses
-* Special moves
-* Evolutions
-* Rare forms
-* Backstory
+- Elemental type
+- Battle abilities
+- Personality
+- Habitat
+- Strengths
+- Weaknesses
+- Special moves
+- Evolutions
+- Rare forms
+- Backstory
 
 Some Yamas are tiny and adorable.
 
@@ -52,24 +56,24 @@ Players explore the world, discover new Yamas, build a team, train their creatur
 
 The eventual game could include:
 
-* Creature collection
-* Turn-based battles
-* Elemental types
-* Special attacks
-* Experience points
-* Levels
-* Evolutions
-* Rare variants
-* Trainer battles
-* Boss battles
-* Regions
-* Quests
-* Creature cards
-* Battle stats
-* Items
-* Food
-* Equipment
-* A searchable Pokeyama Collection
+- Creature collection
+- Turn-based battles
+- Elemental types
+- Special attacks
+- Experience points
+- Levels
+- Evolutions
+- Rare variants
+- Trainer battles
+- Boss battles
+- Regions
+- Quests
+- Creature cards
+- Battle stats
+- Items
+- Food
+- Equipment
+- A searchable Pokeyama Collection
 
 ---
 
@@ -100,11 +104,11 @@ When threatened, it whips leaves and debris into powerful spiraling attacks befo
 
 ### Battle Moves
 
-* 🌿 Leaf Cyclone
-* 🥝 Kiwi Kick
-* 💨 Forest Dash
-* 🪶 Feather Strike
-* 🌪 Seed Storm
+- 🌿 Leaf Cyclone
+- 🥝 Kiwi Kick
+- 💨 Forest Dash
+- 🪶 Feather Strike
+- 🌪 Seed Storm
 
 ### Signature Move
 
@@ -135,11 +139,11 @@ Its favorite activity is chasing bubbles along the shoreline.
 
 ### Battle Moves
 
-* 💦 Bubble Bark
-* 🐾 Aqua Paw
-* 🫧 Puppy Puff
-* 🌊 Splash Charge
-* 🐡 Spike Defense
+- 💦 Bubble Bark
+- 🐾 Aqua Paw
+- 🫧 Puppy Puff
+- 🌊 Splash Charge
+- 🐡 Spike Defense
 
 ### Signature Move
 
@@ -170,11 +174,11 @@ Approach hugs carefully.
 
 ### Battle Moves
 
-* 🪨 Stone Charge
-* 🦔 Quill Burst
-* 🛡 Armor Curl
-* 🐎 Stampede
-* 💥 Ground Smash
+- 🪨 Stone Charge
+- 🦔 Quill Burst
+- 🛡 Armor Curl
+- 🐎 Stampede
+- 💥 Ground Smash
 
 ### Signature Move
 
@@ -211,11 +215,11 @@ And crumbs become distractions.
 
 ### Battle Moves
 
-* 🍪 Snack Attack
-* 🥨 Cracker Strike
-* 🐾 Panda Punch
-* 🍿 Pantry Raid
-* ✨ Crumb Storm
+- 🍪 Snack Attack
+- 🥨 Cracker Strike
+- 🐾 Panda Punch
+- 🍿 Pantry Raid
+- ✨ Crumb Storm
 
 ### Signature Move
 
@@ -248,11 +252,11 @@ Probably.
 
 ### Battle Moves
 
-* 💧 Aqua Orb
-* 🌊 Marsh Wave
-* 🐸 Tapu Hop
-* 🌀 Whirlpool
-* 🌿 Lily Shield
+- 💧 Aqua Orb
+- 🌊 Marsh Wave
+- 🐸 Tapu Hop
+- 🌀 Whirlpool
+- 🌿 Lily Shield
 
 ### Signature Move
 
@@ -287,11 +291,11 @@ Flamika knows both of these things.
 
 ### Battle Moves
 
-* 🔥 Flame Feather
-* 🦩 Flamingo Fury
-* ☄️ Fire Dive
-* 🌋 Heat Wave
-* 🔥 Blazing Wing
+- 🔥 Flame Feather
+- 🦩 Flamingo Fury
+- ☄️ Fire Dive
+- 🌋 Heat Wave
+- 🔥 Blazing Wing
 
 ### Signature Move
 
@@ -315,7 +319,7 @@ A dense forest filled with fruit-bearing trees and powerful wind currents.
 
 Known Yama:
 
-* Kawakiwi
+- Kawakiwi
 
 ---
 
@@ -325,7 +329,7 @@ A tropical shoreline filled with tide pools, caves, reefs, and strange aquatic Y
 
 Known Yama:
 
-* Puffipuppi
+- Puffipuppi
 
 ---
 
@@ -335,7 +339,7 @@ Rocky grasslands where armored creatures roam.
 
 Known Yama:
 
-* Pokipony
+- Pokipony
 
 ---
 
@@ -347,7 +351,7 @@ Missing snacks.
 
 Known Yama:
 
-* Panshee
+- Panshee
 
 ---
 
@@ -357,7 +361,7 @@ A mysterious wetland covered in fog, lily pads, glowing plants, and ancient ruin
 
 Known Yama:
 
-* Toyo Tapu
+- Toyo Tapu
 
 ---
 
@@ -371,7 +375,7 @@ For reasons that become obvious once Flamika appears.
 
 Known Yama:
 
-* Flamika
+- Flamika
 
 ---
 
@@ -433,12 +437,12 @@ Yet.
 
 Evolution chains can eventually include:
 
-* Normal evolutions
-* Rare evolutions
-* Environmental evolutions
-* Friendship evolutions
-* Battle evolutions
-* Secret evolutions
+- Normal evolutions
+- Rare evolutions
+- Environmental evolutions
+- Friendship evolutions
+- Battle evolutions
+- Secret evolutions
 
 ---
 
@@ -455,17 +459,17 @@ Rare
 Epic
 Legendary
 Mythic
-??? 
+???
 ```
 
 Rare Yamas might have:
 
-* Different colors
-* Special abilities
-* Unique attacks
-* Better stats
-* Alternate evolutions
-* Hidden stories
+- Different colors
+- Special abilities
+- Unique attacks
+- Better stats
+- Alternate evolutions
+- Hidden stories
 
 ---
 
@@ -501,16 +505,16 @@ Pokeyama #001
 
 Future card features could include:
 
-* Creature art
-* HP
-* Type
-* Moves
-* Damage
-* Rarity
-* Habitat
-* Evolution stage
-* Flavor text
-* Special abilities
+- Creature art
+- HP
+- Type
+- Moves
+- Damage
+- Rarity
+- Habitat
+- Evolution stage
+- Flavor text
+- Special abilities
 
 ---
 
@@ -523,7 +527,7 @@ Template:
 ```markdown
 # 000 — Creature Name
 
-## The __________ Yama
+## The \***\*\_\_\*\*** Yama
 
 Type:
 Habitat:
@@ -720,7 +724,7 @@ Important Pokeyama design rule:
 
 If someone says,
 
-> "What if there was a ______ mixed with a ______?"
+> "What if there was a **\_\_** mixed with a **\_\_**?"
 
 Write it down immediately.
 
@@ -730,48 +734,48 @@ Write it down immediately.
 
 ## Phase 1 — Build the World
 
-* [x] Create Pokeyama
-* [x] Invent the Original Six
-* [x] Create creature artwork
-* [x] Create creature types
-* [x] Create battle moves
-* [ ] Add more Yamas
-* [ ] Create evolution chains
-* [ ] Create the world map
-* [ ] Invent trainers
-* [ ] Create legendary Yamas
+- [x] Create Pokeyama
+- [x] Invent the Original Six
+- [x] Create creature artwork
+- [x] Create creature types
+- [x] Create battle moves
+- [ ] Add more Yamas
+- [ ] Create evolution chains
+- [ ] Create the world map
+- [ ] Invent trainers
+- [ ] Create legendary Yamas
 
 ## Phase 2 — Build the Collection
 
-* [ ] Store creature data
-* [ ] Add battle stats
-* [ ] Add creature images
-* [ ] Build searchable collection
-* [ ] Add rarity system
-* [ ] Add evolutions
+- [ ] Store creature data
+- [ ] Add battle stats
+- [ ] Add creature images
+- [ ] Build searchable collection
+- [ ] Add rarity system
+- [ ] Add evolutions
 
 ## Phase 3 — Build the Game
 
-* [ ] Choose game language
-* [ ] Create player
-* [ ] Create creature classes
-* [ ] Build battle system
-* [ ] Add experience points
-* [ ] Add leveling
-* [ ] Add capture system
-* [ ] Add locations
-* [ ] Add encounters
+- [ ] Choose game language
+- [ ] Create player
+- [ ] Create creature classes
+- [ ] Build battle system
+- [ ] Add experience points
+- [ ] Add leveling
+- [ ] Add capture system
+- [ ] Add locations
+- [ ] Add encounters
 
 ## Phase 4 — Become Ridiculous
 
-* [ ] Build digital Pokeyama cards
-* [ ] Create animated battles
-* [ ] Add sound effects
-* [ ] Create boss battles
-* [ ] Build full Pokeyama encyclopedia
-* [ ] Create Legendary Yamas
-* [ ] Make Pokeyama playable
-* [ ] Attempt bedtime again
+- [ ] Build digital Pokeyama cards
+- [ ] Create animated battles
+- [ ] Add sound effects
+- [ ] Create boss battles
+- [ ] Build full Pokeyama encyclopedia
+- [ ] Create Legendary Yamas
+- [ ] Make Pokeyama playable
+- [ ] Attempt bedtime again
 
 ---
 

@@ -16,6 +16,12 @@ Pokéyama started as a bedtime brainstorm between a mom and her 7-year-old daugh
 
 ---
 
+## 🧪 Experiments
+
+[`game/`](game/) contains an in-progress experiment: a [Next.js](https://nextjs.org) Pokédex-style browsing site, statically generated straight from the `creatures/*.md` files — no database, markdown as the data source.
+
+---
+
 ## 🌎 The World of Pokéyama
 
 Somewhere beyond the ordinary world lies **Pokéyama**, a land filled with unusual creatures hiding in forests, beaches, mountains, gardens, kitchens, pantries, and other mysterious places.
